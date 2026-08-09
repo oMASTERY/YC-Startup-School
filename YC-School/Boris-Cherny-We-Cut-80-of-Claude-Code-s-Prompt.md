@@ -11,7 +11,7 @@ tags:
 # Boris Cherny: We Cut 80% of Claude Code’s Prompt
 https://www.youtube.com/watch?v=qyPCVqFUyDo&list=PLEb7ftOB0yf0&index=9
 ## Summary
-*(Add summary here)*
+Boris Cherny, creator of Claude Code, discusses the new capabilities of Opus 5, notably its immunity to prompt injection and its ability to run autonomously for weeks at a time. He reveals that they deleted 80% of Claude Code's system prompt because Opus 5 is intelligent enough not to need it, advising developers to empirically test and unhobble models rather than relying on rigid prompts. He highlights how Claude Code now maintains its own codebase using thousands of agents and encourages builders to give models harder tasks, focus on verification, and treat prompt engineering as an empirical science.
 
 ## Transcript
 *(Add your transcript here)*

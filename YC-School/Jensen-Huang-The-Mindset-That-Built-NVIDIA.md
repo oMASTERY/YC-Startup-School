@@ -11,7 +11,7 @@ tags:
 # Jensen Huang: The Mindset That Built NVIDIA
 
 ## Summary
-*(Add summary here)*
+In this fireside chat, Jensen Huang discusses NVIDIA's early missteps with 3D graphics, revealing how a willingness to confront failure and learn from textbooks saved the company. He emphasizes the importance of reasoning from first principles, building an organization tailored to the founder's strengths ("founder mode"), and scaling early insights about deep learning as a 'universal function approximator.' Jensen also shares his optimistic vision for AI's impact on job creation, the upcoming 'ChatGPT moment' for physical robotics, and NVIDIA's commitment to open-source models like OpenClaw and Hermes to empower companies to build their own AIs.
 
 ## Transcript
 https://www.youtube.com/watch?v=I4B37S1dyQQ&list=PLEb7ftOB0yf0&index=10

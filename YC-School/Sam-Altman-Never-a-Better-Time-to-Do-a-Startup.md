@@ -11,7 +11,7 @@ tags:
 # Sam Altman: Never a Better Time to Do a Startup
 https://www.youtube.com/watch?v=ZIaOBAjvc38&list=PLEb7ftOB0yf0&index=9
 ## Summary
-*(Add summary here)*
+In this fireside chat from YC Startup School 2026, Sam Altman reflects on his early days at Y Combinator, his time running it, and the foundational years of OpenAI. He emphasizes that with AI rapidly lowering the barrier to execution, there has never been a better time to build a startup. Sam argues that ambitious startups will be the key to ensuring AI capabilities are widely distributed rather than concentrated. He advises founders to develop strong conviction in big ideas even when they are misunderstood, to ignore internet detractors, and to remain optimistic through the challenges of building a company.
 
 ## Transcript
 *(Add your transcript here)*

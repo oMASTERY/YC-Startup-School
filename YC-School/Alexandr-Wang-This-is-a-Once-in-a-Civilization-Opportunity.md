@@ -11,7 +11,7 @@ tags:
 # Alexandr Wang: This is a Once-in-a-Civilization Opportunity
 https://www.youtube.com/watch?v=sJ4VJWycX9M&list=PLEb7ftOB0yf0&index=7
 ## Summary
-*(Add summary here)*
+Alexandr Wang shares the founding story of Scale AI, emphasizing the importance of first principles thinking, pivoting early when necessary, and building conviction in ideas before they become consensus. He highlights that we are currently in a 'once-in-a-civilization' opportunity where AI capabilities are rapidly compounding, shifting the primary bottleneck of progress from intelligence to vision and ambition. Wang also discusses Meta's work on personal superintelligence, open-source models, and agentic looping, advising founders to find the steepest exponential curves to build on.
 
 ## Transcript
 *(Add your transcript here)*

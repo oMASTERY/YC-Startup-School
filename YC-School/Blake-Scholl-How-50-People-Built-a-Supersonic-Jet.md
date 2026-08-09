@@ -11,7 +11,7 @@ tags:
 # Blake Scholl: How 50 People Built a Supersonic Jet
 https://www.youtube.com/watch?v=byAj35QlGbs&list=PLEb7ftOB0yf0&index=8
 ## Summary
-*(Add summary here)*
+Blake Scholl, founder of Boom Supersonic, shares the journey of building the first independently developed supersonic jet, the XB-1. He details how Boom overcame massive technical and financial hurdles by making hardware development look more like software development through vertical integration, in-house manufacturing, and fast iteration loops. Scholl also emphasizes the importance of building things that matter, confronting regulatory challenges by demonstrating safety rather than fighting the system, and having the self-belief to tackle problems even without traditional credentials.
 
 ## Transcript
 *(Add your transcript here)*
