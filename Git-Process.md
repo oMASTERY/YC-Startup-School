@@ -16,4 +16,5 @@ When the user tags this file, you must execute the following standard git workfl
 2. **Stage Changes**: Run `git add -A` to stage all new, modified, and deleted files.
 3. **Commit**: Generate a concise, meaningful commit message summarizing the changes (e.g., "feat: added new UI components" or "chore: updated dependencies") and run `git commit -m "<message>"`.
 4. **Push**: Run `git push` to sync the changes with the GitHub remote repository.
+   - **CRITICAL**: If `git push` fails with authentication errors, it is likely because an invalid `GITHUB_TOKEN` is blocking the valid `gh` CLI keyring token. Bypass it by running: `$env:GITHUB_TOKEN=""; git push`
 5. **Confirm**: Let the user know the changes have been successfully committed and pushed.
